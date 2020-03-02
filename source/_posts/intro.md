@@ -8,4 +8,4 @@ tags: daily
 まずはHexo + github pagesで作ってみました。
 
 ### フロントエンド楽しい！
-![著者近影](/images/2020/03/selfish.jpg)
+![著者近影](https://photos.app.goo.gl/uvhfswn7qF4nyGKp6 "スケッチ風自撮り")
