@@ -14,4 +14,4 @@ tags: Hexo
 
 ある程度纏ったら参考にしたサイトのリンク集や詰まった点など投稿していきたいと思う。それにしてもMarkdown便利だ。
 
-![Programing](images/2020/03/top.png)
+![Programing](top.png)
