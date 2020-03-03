@@ -15,3 +15,4 @@ tags: Hexo
 ある程度纏ったら参考にしたサイトのリンク集や詰まった点など投稿していきたいと思う。それにしてもMarkdown便利だ。
 
 ![Programing](top.png)
+![Programing2](source/_posts/hexo-install01/top.png)
