@@ -100,4 +100,5 @@ theme: tranquilpeak
 deploy:
   type: git
   repo: https://github.com/memento09/hexo-blog.git
-  branch: gh-pages
+  #branch: gh-pages
+  branch: master
