@@ -2,10 +2,10 @@
 title: netlify格闘日記 01
 date: 2020-03-06 15:09:07
 categories:
-  - dialy
+  - [dialy]
 tags:
-  - netlify
-  - hexo
+  - [netlify]
+  - [hexo]
 ---
 
 ## netlify
