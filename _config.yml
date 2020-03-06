@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -101,3 +101,6 @@ deploy:
   type: git
   repo: https://github.com/memento09/hexo-blog.git
   branch: gh-pages
+  #type: netlify
+  #token: c80d9b7712631105ce8fcaba0caa373bfba800d766ea57b9ef1f99ac7223b0bc
+  #site_id: 1dbcb98f-bfb3-465e-b56e-8537e459bf49
