@@ -95,7 +95,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 ##theme: tranquilpeak
 ##theme: landscape
-theme: icarus
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
