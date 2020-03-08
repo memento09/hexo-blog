@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
-  ## repo: memento09/hexo-blog
+  ##name: git-gateway
+  name: github
+  repo: memento09/hexo-blog
   branch: master # Branch to update (optional; defaults to master)
 
 # This line should *not* be indented
