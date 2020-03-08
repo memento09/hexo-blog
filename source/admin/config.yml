@@ -1,6 +1,6 @@
 backend:
-  ##name: git-gateway
-  name: github
+  name: git-gateway
+  ##name: github
   repo: memento09/hexo-blog
   branch: master # Branch to update (optional; defaults to master)
 
